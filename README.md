@@ -1,1 +1,1 @@
-# Skin-Lesion-Classification-2019
+# Checking how oversampling affects the performance.
